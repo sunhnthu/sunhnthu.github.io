@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap');
+
+:root {
+  --site-text: #222;
+  --site-muted: #666;
+  --site-rule: #e8e8e8;
+  --site-font: "Inter", "Noto Sans SC", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  color: var(--site-text);
+  font-family: var(--site-font);
+  font-size: 1rem;
+  line-height: 1.58;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.navbar-brand,
+.navbar-nav,
+h1, h2, h3, h4, h5, h6,
+.btn {
+  font-family: var(--site-font);
+}
+
+.navbar-brand {
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+main.content {
+  max-width: 980px;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: center;
+  margin: 1.8rem 0 3rem 0;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  font-weight: 650;
+  letter-spacing: -0.025em;
+  margin-bottom: 0.45rem;
+}
+
+.hero-text p {
+  margin-bottom: 0.8rem;
+}
+
+h2 {
+  margin-top: 2.35rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--site-rule);
+  font-weight: 650;
+  letter-spacing: -0.015em;
+}
+
+h3 {
+  margin-top: 1.35rem;
+  margin-bottom: 0.3rem;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.btn {
+  margin-right: 0.45rem;
+  margin-top: 0.35rem;
+}
+
+.more-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.quarto-title-banner {
+  background: transparent;
+}
+
+#quarto-content p,
+#quarto-content li {
+  max-width: 940px;
+}
+
+/* Compact research entries: let the browser wrap naturally instead of
+   forcing title / authors / outlet onto three separate lines. */
+#quarto-content ol,
+#quarto-content ul {
+  padding-left: 1.35rem;
+}
+
+#quarto-content li {
+  margin-bottom: 0.72rem;
+  line-height: 1.52;
+}
+
+#quarto-content a {
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
+@media (max-width: 720px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+
+  .profile-photo {
+    width: 160px;
+    height: 200px;
+  }
+
+  .hero-text h1 {
+    font-size: 2.1rem;
+  }
+}
+
+
+/* Collapsible full abstract on the homepage. */
+.abstract-details {
+  margin: 0.45rem 0 0.8rem 0;
+  color: var(--site-muted);
+}
+
+.abstract-details summary {
+  display: inline-block;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--site-text);
+}
+
+.abstract-details summary:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.abstract-details[open] summary {
+  margin-bottom: 0.45rem;
+}
+
+.abstract-details p {
+  margin-top: 0.35rem;
+  margin-bottom: 0.45rem;
+  max-width: 900px;
+}
+
+/* Research outlets: a restrained accent so journal names stand out
+   without competing with clickable paper titles. */
+:root {
+  --journal-accent: #7a4651;
+}
+
+.journal {
+  color: var(--journal-accent);
+  font-weight: 600;
+}

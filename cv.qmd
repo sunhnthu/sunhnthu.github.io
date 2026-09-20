@@ -1,0 +1,52 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download CV (PDF)](files/CV_HN.pdf){.btn .btn-primary}
+
+## Education
+
+**Tsinghua University, School of Economics and Management**\
+Ph.D. in Economics, 2022–present\
+Advisor: Feng Dong
+
+**Yale University, Department of Economics**\
+Visiting Assistant in Research, January–May 2026\
+Host: Zhen Huo
+
+**Tsinghua University, School of Economics and Management**\
+B.A. in Economics, 2018–2022
+
+**Tsinghua University, Department of Mathematical Sciences**\
+B.S. in Mathematics and Applied Mathematics (Second Degree), 2018–2022
+
+## Research Interests
+
+Macroeconomics; Artificial Intelligence and the Digital Economy; Asset Bubbles; Production Networks; Green Transition.
+
+## Conference Presentations
+
+*An asterisk (\*) indicates presentation by a coauthor.*
+
+### 中文会议
+
+第四届中国宏观经济学者论坛（2023）、第二十一届中国青年学者论坛（2023）、第二十届中国金融学年会（2023）、第二十三届中国经济学年会（2023）、NCER–CCER 第三届中国经济研讨会（2023）、第364期双清论坛、第二届中国数字经济发展论坛（2024）*、第六届“中国发展经济学前沿”学术研讨会（2024）*、第五届中国宏观经济学者论坛（2024）、“数字需求下的需求侧改革”学术研讨会（2024）\*、中国数量经济学会年会（2024）、中国经济学年会（2024）、CCER–NCER 第四届中国经济研讨会（2024）、《计量经济学报》第二届青年学者沙龙（2025）、经济波动与增长学术论坛 2025 年会（2025）、NCER–CCER 第五届中国经济研讨会（2025）、中央财经大学第三届全球博士生论坛（2026）、中国经济学年会夏季论坛（2026）、中国经济学年会（2026）。
+
+### International Conferences
+
+CCER Summer Institute (2023); CICM (2023); AMES China (2023); AMES Singapore (2023); 6th HenU/INFER Workshop on Applied Macroeconomics (2024); 2nd NGFS–EN Research Seminar\* (2024); AMES China (2024); NBER–SAIF Climate Finance and the Sustainable Energy Transition Virtual Conference (2024); 7th International Conference of China and Development Studies (ICCDS) (2024); the Inaugural PHBS–IER Conference\* (2024); CICF (2025); 8th International Conference of China and Development Studies (ICCDS) (2025); Tsinghua Research Workshop on Public Economics (2025); 7th HenU/INFER Workshop on Applied Macroeconomics (2025); Tsinghua SEM Macroeconomic Growth Outlook Forum\* (2025); Growth and Institution Workshop\* (2026); 8th HenU/INFER Workshop on Applied Macroeconomics\* (2026); SJTU Macroeconomic Workshop\* (2026); 10th PHBS Workshop in Macroeconomics and Finance\* (2026); AMES China (2026); CICM\* (2026); CFRC (2026); CES Annual China (2026); the 3rd Workshop of the East and South-East Asian Macroeconomic Society (2026).
+
+## Conference Discussions
+
+**中文会议:** 第四届中国宏观经济学者论坛（2023）、第二十一届中国青年学者论坛（2023）、第五届中国宏观经济学者论坛（2024）。
+
+**International Conferences:** CICM (2025).
+
+## Teaching Experience
+
+See the dedicated [Teaching page](teaching.qmd) for the full list of courses and terms.
+
+## Contact
+
+**Email:** [sunhn22\@mails.tsinghua.edu.cn](mailto:sunhn22@mails.tsinghua.edu.cn)\
+**Affiliation:** School of Economics and Management, Tsinghua University

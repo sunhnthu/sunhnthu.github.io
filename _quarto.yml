@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Haoning Sun"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:sunhn22@mails.tsinghua.edu.cn
+        aria-label: Email
+      # Add these after replacing the placeholder URLs:
+      # - icon: github
+      #   href: https://github.com/YOUR-USERNAME
+      #   aria-label: GitHub
+      # - text: Scholar
+      #   href: https://scholar.google.com/citations?user=YOUR-ID
+  page-footer:
+    left: "© Haoning Sun"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+editor: visual
