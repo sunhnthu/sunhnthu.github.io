@@ -36,7 +36,7 @@ This paper studies how AI-generated financial information affects real capital a
 
 </details>
 
-[Paper](files/JMP_202609.pdf){.btn .btn-primary}
+[Paper](files/JMP_202610.pdf){.btn .btn-primary} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7558538){.btn .btn-outline-primary}
 
 [View all research →](research.qmd){.more-link}
 

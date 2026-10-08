@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[Download CV (PDF)](files/CV_HN.pdf){.btn .btn-primary}
+[Download CV (PDF)](files/CV_HN_CN.pdf){.btn .btn-primary}
 
 ## Education
 
