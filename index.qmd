@@ -18,7 +18,7 @@ I am a Ph.D. candidate in Economics at Tsinghua University. My research interest
 
 **I will be on the 2026-2027 job market.**
 
-[Email](mailto:sunhn22@mails.tsinghua.edu.cn){.btn .btn-primary} [简历](files/CV_HN_CN.pdf){.btn .btn-outline-primary} [CV](files/CV_HN_EN.pdf){.btn .btn-outline-primary}
+[Email](mailto:sunhn22@mails.tsinghua.edu.cn){.btn .btn-primary} [简历](files/CV_HN_CN.pdf){.btn .btn-outline-primary} [CV](files/CV_HN_EN.pdf){.btn .btn-outline-primary}[Research Statement](files/Research_Statement_Haoning_Sun.pdf){.btn .btn-outline-primary}
 :::
 :::::
 
@@ -32,7 +32,7 @@ This paper studies how common reliance on AI-generated financial information aff
 
 <summary>Full abstract</summary>
 
-This paper studies how AI-generated financial information affects real capital allocation. Investors choose between private research and an AI signal with a shared model error, and firms learn from equilibrium asset prices before investing. Motivating evidence shows that institutional managers with greater common alignment with AI-extractable information subsequently hold more similar portfolios. In the model, investors may underestimate the overlap between AI information and prices. Under complete correlation neglect, cheaper AI raises aggregate TFP near a boundary where high costs keep AI use negligible. Improvements from very low model accuracy can instead lower TFP: endogenous reliance increases prices' exposure to common errors faster than informed trading reduces noise-trader contamination. Numerical equilibria exhibit a J-shaped TFP response to model accuracy and a hump-shaped response to lower costs, including under partial recognition of common errors. These responses arise from changes in actual capital allocation, with production technology held fixed. General acquisition costs preserve the local comparison under explicit conditions on information choices.
+This paper studies how AI progress affects capital allocation through financial information aggregation. Using institutional portfolio holdings, we document that manager pairs with greater common alignment with AI-extractable information subsequently hold more similar portfolios. Motivated by this evidence, we develop a model in which investors choose the quantity and composition of private and AI information, and firms learn from equilibrium asset prices before investing. A shared AI model error survives aggregation and enters prices, and investors may underestimate the overlap between AI information and prices. AI progress therefore changes both investors' information precision and prices' exposure to common errors. Cheaper access initially raises aggregate productivity when high costs keep AI use negligible, but further cost reductions can reverse the gain as AI research displaces private research. Improvements from very low model accuracy can instead lower productivity when increased reliance raises common-error exposure more than informed trading reduces noise-trader contamination. Numerical equilibria trace a J-shaped relationship between model accuracy and TFP. These results show how AI progress can expand investors' information acquisition while reducing the information prices convey to firms, worsening capital allocation even when firms use prices optimally.
 
 </details>
 
