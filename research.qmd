@@ -11,6 +11,7 @@ title: "Research"
 **Abstract.** This paper studies how AI-generated financial information affects real capital allocation. Investors choose between private research and an AI signal with a shared model error, and firms learn from equilibrium asset prices before investing. Motivating evidence shows that institutional managers with greater common alignment with AI-extractable information subsequently hold more similar portfolios. In the model, investors may underestimate the overlap between AI information and prices. Under complete correlation neglect, cheaper AI raises aggregate TFP near a boundary where high costs keep AI use negligible. Improvements from very low model accuracy can instead lower TFP: endogenous reliance increases prices' exposure to common errors faster than informed trading reduces noise-trader contamination. Numerical equilibria exhibit a J-shaped TFP response to model accuracy and a hump-shaped response to lower costs, including under partial recognition of common errors. These responses arise from changes in actual capital allocation, with production technology held fixed. General acquisition costs preserve the local comparison under explicit conditions on information choices.
 
 [Paper](files/JMP_202609.pdf){.btn .btn-primary}
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7558538){.btn .btn-outline-primary}
 
 ```{=html}
 <!-- Add links when ready:
@@ -71,7 +72,7 @@ title: "Research"
 
 ### Working Papers
 
-- **AI Bubbles** — [Feng Dong](https://fengdongecon.weebly.com/), **Haoning Sun**, [Neng Wang](https://nengwang-economics.com/).
+- **AI Valuations and Automation** — [Feng Dong](https://fengdongecon.weebly.com/), **Haoning Sun**, [Neng Wang](https://nengwang-economics.com/).
 
 - [**Automation and Dynamic Efficiency: When Do Robots Benefit Every Generation**](https://dx.doi.org/10.2139/ssrn.7442385) — [Feng Dong](https://fengdongecon.weebly.com/), [Ernest Liu](https://ernestliu.scholar.princeton.edu/), **Haoning Sun**, [Pengfei Wang](https://sites.google.com/view/pengfeiwang).
 
