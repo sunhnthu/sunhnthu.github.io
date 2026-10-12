@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - googleec0800efe5e607e4.html
 
 website:
   title: "Haoning Sun"
