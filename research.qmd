@@ -10,7 +10,7 @@ title: "Research"
 
 **Abstract.** This paper studies how AI progress affects capital allocation through financial information aggregation. Using institutional portfolio holdings, we document that manager pairs with greater common alignment with AI-extractable information subsequently hold more similar portfolios. Motivated by this evidence, we develop a model in which investors choose the quantity and composition of private and AI information, and firms learn from equilibrium asset prices before investing. A shared AI model error survives aggregation and enters prices, and investors may underestimate the overlap between AI information and prices. AI progress therefore changes both investors' information precision and prices' exposure to common errors. Cheaper access initially raises aggregate productivity when high costs keep AI use negligible, but further cost reductions can reverse the gain as AI research displaces private research. Improvements from very low model accuracy can instead lower productivity when increased reliance raises common-error exposure more than informed trading reduces noise-trader contamination. Numerical equilibria trace a J-shaped relationship between model accuracy and TFP. These results show how AI progress can expand investors' information acquisition while reducing the information prices convey to firms, worsening capital allocation even when firms use prices optimally.
 
-[Paper](files/JMP_202610.pdf){.btn .btn-primary}
+[Paper](files/JMP_202611.pdf){.btn .btn-primary}
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7558538){.btn .btn-outline-primary}
 
 ```{=html}

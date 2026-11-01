@@ -36,7 +36,7 @@ This paper studies how AI progress affects capital allocation through financial 
 
 </details>
 
-[Paper](files/JMP_202610.pdf){.btn .btn-primary} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7558538){.btn .btn-outline-primary}
+[Paper](files/JMP_202611.pdf){.btn .btn-primary} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7558538){.btn .btn-outline-primary}
 
 [View all research →](research.qmd){.more-link}
 
